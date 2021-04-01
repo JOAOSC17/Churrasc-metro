@@ -1,5 +1,7 @@
 # Churrascômetro
 Nice design of a responsive barbecue meter website :fork_and_knife: :meat_on_bone: .For mobile then for desktop.
+With this website you don't have to wonder how much meat or drink you need.
+They do the math for you :sunglasses: .
 ## 🚀 Technologies
 - HTML
 - CSS 
