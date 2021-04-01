@@ -5,7 +5,7 @@ Nice design of a responsive barbecue meter website :fork_and_knife: :meat_on_bon
 - CSS 
 - JavaScript 
 ## ℹ️ How To Use
-~~~ #Clone this repository
+~~~ # Clone this repository
 # Install VS Code
 # Run the Website in VS Code
 ~~~
